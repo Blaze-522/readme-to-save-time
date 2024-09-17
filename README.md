@@ -19,18 +19,16 @@
   ## Usage
   After downloading the required modules the user will run node index.js into their terminal of choice and then answet the question that they are prompted with. Then they will be provided with a README that has the information they entered 
 
-  ## Video
-
-  
+  [Walkthrough video](https://youtu.be/wAdtzCb9DqE)
   
   ## License
   This project is licensed under the MIT license.
   
   ## Contributing
-  
+  N/A
   
   ## Tests
-  
+  N/A
   
   ## Questions
   If you have any questions, you can reach me at [mckassonmax22@gmail.com](mailto:mckassonmax22@gmail.com). You can also find more of my work at [blaze-522](https://github.com/blaze-522).
